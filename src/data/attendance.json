@@ -1,0 +1,38 @@
+[
+    {
+      "teacher_id": 1,
+      "date": "2024-05-01",
+      "checkin": "08:00:00",
+      "checkout": "16:00:00",
+      "duration": "08:00:00"
+    },
+    {
+      "teacher_id": 1,
+      "date": "2024-05-02",
+      "checkin": "08:30:00",
+      "checkout": "16:30:00",
+      "duration": "08:00:00"
+    },
+    {
+      "teacher_id": 2,
+      "date": "2024-05-01",
+      "checkin": "09:00:00",
+      "checkout": "17:00:00",
+      "duration": "08:00:00"
+    },
+    {
+      "teacher_id": 2,
+      "date": "2024-05-02",
+      "checkin": "09:30:00",
+      "checkout": "17:30:00",
+      "duration": "08:00:00"
+    },
+    {
+      "teacher_id": 3,
+      "date": "2024-05-01",
+      "checkin": "08:45:00",
+      "checkout": "16:45:00",
+      "duration": "08:00:00"
+    }
+  ]
+  
